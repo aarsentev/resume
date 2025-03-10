@@ -1,6 +1,6 @@
-resume.aux
-resume.log
-resume.out
-resume.pdf
+resume*.aux
+resume*.log
+resume*.out
+resume*.pdf
 resume_eng.tex
 resume_rus.tex
